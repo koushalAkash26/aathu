@@ -1,0 +1,19 @@
+button { 
+    padding: 2px; 
+    border: none;
+} 
+#nav{
+    background-color:#696B79;
+}
+.nav-link{
+    font-weight: bolder;
+
+}
+.btn{
+    font-weight: bolder;
+}
+a{
+    text-decoration: none;
+}
+
+
